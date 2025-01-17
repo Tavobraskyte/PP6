@@ -1,5 +1,6 @@
-# PP6
+# Boston Housing Kainų Prognozavimas su TensorFlow/Keras
 projektinis darbas Nr. 6
+
 Boston Housing Kainų Prognozavimas su TensorFlow/Keras
 Apžvalga
 Šiame projekte pateikiamas giluminio mokymosi modelio, sukurtas naudojant TensorFlow ir Keras bibliotekas, taikymas Boston Housing duomenų rinkiniui. Tikslas buvo prognozuoti nekilnojamojo turto kainas pagal įvairius veiksnius, tokius kaip kambarių skaičius, mokesčių rodikliai ir kt.
